@@ -31,7 +31,7 @@ app.get('/elements/:element/', searchElement);
 
 function searchElement(request, response) {
     const word = decodeURIComponent(request.params.element).toLowerCase();
-	const result = elements.find(el => el.name.toLowerCase() === word);
+	const result = elements.find(el => el.admissionNo.toLowerCase() === word);
 
     if (result) {
         response.send(result); 
