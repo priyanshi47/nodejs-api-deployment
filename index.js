@@ -30,8 +30,9 @@ function alldata(request, response) {
 app.get('/elements/:element/', searchElement);
 
 function searchElement(request, response) {
-    const word = decodeURIComponent(request.params.element).toLowerCase();
-	const result = elements.find(el => el.admissionNo.toLowerCase() === word);
+    const word = request.params.element;
+
+	const result = elements.find(el => el.admissionNo == word);
 
     if (result) {
         response.send(result); 
