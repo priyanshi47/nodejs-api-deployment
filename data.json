@@ -1,0 +1,269 @@
+{
+    "elements": [
+      {
+        "name": "Priyanshi Setia",
+        "admissionNo": 1001,
+        "image": "https://www.perfocal.com/blog/content/images/size/w960/2021/01/Perfocal_17-11-2019_TYWFAQ_100_standard-3.jpg",
+        "class": "10",
+        "section":"A",
+        "Discount": "20",
+        "mobileNo": "823978690",
+        "dateOfAdm": "2024-11-20",
+        "dob": "2024-04-12",
+        "gender": "male",
+        "family": "Sethiya",
+        "mark": "No",
+        "bloodgrp": "AB+",
+        "disease": "No",
+        "formID": "12345678",
+        "cast": "hindu",
+        "prevschl": "SHBP Senior Secondary School",
+        "boardRollno": "7868789",
+        "addNote": "NO",
+        "isOrphan": "No",
+        "OSC": "No",
+        "religion": "Hinduism",
+        "totalSiblings": "2",
+        "fatherName": "Santosh Sethiya",
+        "motherName": "Sarita Sethiya",
+        "address": "108, Anand Vihar Colony, Ramganj Mandi",
+        "totalWorkingDays": "100",
+        "Today": "PRESENT",
+        "yesteraday": "ABSENT",
+        "present": "42",
+        "leaves": "8",
+        "absent": "50",
+        "classtestName": "chemistry",
+        "totalClasstest": "4",
+        "totalMarks": "200",
+        "obtMarks": "179",
+        "examName": "Board Exam Class 10",
+        "maxMarks": "500",
+        "obtMraks": "470",
+        "isFeePaid": "Yes",
+        "feeMonth": "June 2024",
+        "subDate": "29/11/2024",
+        "totalAmt": "35000",
+        "paidAmt": "20000",
+        "fatherEdu": "12th",
+        "fatherOcc": "BuisnessMan",
+        "fatherNationalID": "1234",
+        "fatherMobile": "9080706050",
+        "fatherProfession": "private",
+        "fatherIncome": "800000",
+        "motherEdu": "12th",
+        "motherOcc": "BuisnessMan",
+        "motherNationalID": "1234",
+        "motherMobile": "9080706050",
+        "motherProfession": "private",
+        "motherIncome": "800000",
+      
+        "examReport": [
+          {
+            "examName": "Physics",
+            "obtmarks": "190",
+            "total": "200"
+          },
+          {
+            "examName": "Maths",
+            "obtmarks": "100",
+            "total": "200"
+          }
+        ],
+        "feeReport": [
+          {
+            "monthlyFee": "20000",
+            "paid": "10000",
+            "submissionDate": "2/12/2024",
+            "feeMonth": "2024-10",
+            "previousAmount": "2000"
+          },
+          {
+            "monthlyFee": "30000",
+            "paid": "10000",
+            "submissionDate": "2/12/2024",
+            "feeMonth": "2024-08",
+            "previousAmount": "3000"
+          }
+        ]
+      },
+      {
+        "name": "Shivani Sethiya",
+        "admissionNo": 1002,
+        "image": "https://media.istockphoto.com/id/1262199842/photo/profile-picture-of-millennial-asian-girl-posing.jpg?s=612x612&w=0&k=20&c=5ExXDFJNZs101kPocW68ELA-2g7_acsdlE4zteQ7Zhc=",
+        "class": "12",
+        "section":"B",
+        "Discount": "20",
+        "dateOfAdm": "2024-11-20",
+        "mobileNo": "823978690",
+        "dob": "2024-04-12",
+        "gender": "male",
+        "mark": "No",
+        "bloodgrp": "AB+",
+        "disease": "No",
+        "formID": "12345678",
+        "cast": "hindu",
+        "prevschl": "SHBP Senior Secondary School",
+        "boardRollno": "7868789",
+        "addNote": "NO",
+        "isOrphan": "No",
+        "OSC": "No",
+        "family": "Khandelwal",
+        "religion": "Hinduism",
+        "totalSiblings": "2",
+        "fatherName": "Santosh Sethiya",
+        "motherName": "Sarita Sethiya",
+        "address": "108, Anand Vihar Colony, Ramganj Mandi",
+        "totalWorkingDays": "100",
+        "Today": "ABSENT",
+        "yesteraday": "PRESENT",
+        "present": "51",
+        "leaves": "7",
+        "absent": "42",
+        "classtestName": "chemistry",
+        "totalClasstest": "4",
+        "totalMarks": "200",
+        "obtMarks": "179",
+        "examName": "Board Exam Class 10",
+        "maxMarks": "500",
+        "obtMraks": "470",
+        "isFeePaid": "Yes",
+        "feeMonth": "June 2024",
+        "subDate": "29/11/2024",
+        "totalAmt": "35000",
+        "paidAmt": "20000",
+        "fatherEdu": "12th",
+        "fatherOcc": "BuisnessMan",
+        "fatherNationalID": "1234",
+        "fatherMobile": "9080706050",
+        "fatherProfession": "private",
+        "fatherIncome": "800000",
+        "motherEdu": "12th",
+        "motherOcc": "BuisnessMan",
+        "motherNationalID": "1234",
+        "motherMobile": "9080706050",
+        "motherProfession": "private",
+        "motherIncome": "800000",
+        "examReport": [
+          {
+            "examName": "Physics",
+            "obtmarks": "190",
+            "total": "200"
+          },
+          {
+            "examName": "Maths",
+            "obtmarks": "100",
+            "total": "200"
+          }
+        ],
+        "feeReport": [
+          {
+            "monthlyFee": "20000",
+            "paid": "10000",
+            "submissionDate": "2024-11",
+            "feeMonth": "2024-11",
+            "previousAmount": "2000"
+          },
+          {
+            "monthlyFee": "30000",
+            "paid": "10000",
+            "submissionDate": "2/12/2024",
+            "feeMonth": "2024-12",
+            "previousAmount": "2000"
+          }
+        ]
+      },
+      {
+        "name": "Priya Sethiya",
+        "admissionNo": 1003,
+        "image": "https://media.istockphoto.com/id/1262199842/photo/profile-picture-of-millennial-asian-girl-posing.jpg?s=612x612&w=0&k=20&c=5ExXDFJNZs101kPocW68ELA-2g7_acsdlE4zteQ7Zhc=",
+        "class": "12",
+        "section":"A",
+        "Discount": "20",
+        "dateOfAdm": "2024-11-20",
+        "mobileNo": "823978690",
+        "dob": "2024-04-12",
+        "gender": "male",
+        "mark": "No",
+        "bloodgrp": "AB+",
+        "disease": "No",
+        "formID": "12345678",
+        "cast": "hindu",
+        "prevschl": "SHBP Senior Secondary School",
+        "boardRollno": "7868789",
+        "addNote": "NO",
+        "isOrphan": "No",
+        "OSC": "No",
+        "family": "Khandelwal",
+        "religion": "Hinduism",
+        "totalSiblings": "2",
+        "fatherName": "Santosh Sethiya",
+        "motherName": "Sarita Sethiya",
+        "address": "108, Anand Vihar Colony, Ramganj Mandi",
+        "totalWorkingDays": "100",
+        "Today": "ABSENT",
+        "yesteraday": "PRESENT",
+        "present": "51",
+        "leaves": "7",
+        "absent": "42",
+        "classtestName": "chemistry",
+        "totalClasstest": "4",
+        "totalMarks": "200",
+        "obtMarks": "179",
+        "examName": "Board Exam Class 10",
+        "maxMarks": "500",
+        "obtMraks": "470",
+        "isFeePaid": "Yes",
+        "feeMonth": "June 2024",
+        "subDate": "29/11/2024",
+        "totalAmt": "35000",
+        "paidAmt": "20000",
+        "fatherEdu": "12th",
+        "fatherOcc": "BuisnessMan",
+        "fatherNationalID": "1234",
+        "fatherMobile": "9080706050",
+        "fatherProfession": "private",
+        "fatherIncome": "800000",
+        "motherEdu": "12th",
+        "motherOcc": "BuisnessMan",
+        "motherNationalID": "1234",
+        "motherMobile": "9080706050",
+        "motherProfession": "private",
+        "motherIncome": "800000",
+        "examReport": [
+          {
+            "examName": "Physics",
+            "obtmarks": "190",
+            "total": "200"
+          },
+          {
+            "examName": "Maths",
+            "obtmarks": "100",
+            "total": "200"
+          }
+        ],
+        "feeReport": [
+          {
+            "monthlyFee": "20000",
+            "paid": "10000",
+            "submissionDate": "2024-11",
+            "feeMonth": "November 2024",
+            "previousAmount": "2000"
+          },
+          {
+            "monthlyFee": "30000",
+            "paid": "10000",
+            "submissionDate": "2/12/2024",
+            "feeMonth": "2024-11",
+            "previousAmount": "2000"
+          }
+        ]
+      }
+  
+  
+     
+  
+  
+    ]
+  }
+  
